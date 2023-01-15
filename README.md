@@ -1,4 +1,12 @@
 # repro-materials
+The following are the Github repo of the two selected papers for our reporducibility studies:
+
+## BGH Hijacking Classification:
+https://github.com/grace71/bgp-hijacks-classifier.git: The github link for cloning the above mentioned project.
+
+## BGP-Serial_Hijackers:
+https://github.com/ctestart/BGP-SerialHijackers.git: The Github link for the second selected studies.
+
 The following links are pointers to materials that we would need for our implementations
 
 ## BGPStream:
