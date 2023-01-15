@@ -11,5 +11,5 @@ datahttp://www.traceroute.org/#Looking%20Glass: These are various looking glasse
 ## Additional Materials: 
 These are not urgent for now but I believe are resources that could be beneficial for the future.
 
-I would be interested to know about the implementation and various functions of the [packetLab](pktlab.github.io:)
+I would be interested to know about the implementation and various functions of the [packetLab](pktlab.github.io)
 
