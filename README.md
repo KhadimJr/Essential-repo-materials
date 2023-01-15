@@ -18,15 +18,19 @@ https://www.ripe.net/analyse/internet-measurements/routing-information-service-r
   ### RIPE Stats
   https://stat.ripe.net/about/: Providing open data and insights for Internet resources.
 
+## Looking Glasses (Traceroute):
 datahttp://www.traceroute.org/#Looking%20Glass: These are various looking glasses that also does similar things but with some drawbacks.
 
+## BGPmon:
 https://www.bgpmon.net/: BGPmon is also another tool that are commonly used in this research.
 
+## Internet Health Report:
 https://ihr.iijlab.net/ihr/en-us/: The Internet Health Report (IHR) is also another useful tool that we can harness and used by one of the selected studies for the reproducibility studies.
-
-https://ihr-archive.iijlab.net/: The IHR archieves, it entails daily dumbs of various kinds of data that we would be using during the studies. 
-
-https://ihr-archive.iijlab.net/ihr/hegemony/: The AS hegonomy is an achieve in above link and also used in **BGP Hijacking Classification** paper.
+  ### Internet Health Report Archieves:
+  https://ihr-archive.iijlab.net/: The IHR archieves, it entails daily dumbs of various kinds of data that we would be using during the studies. 
+  
+  ### AS Hegonomy
+  https://ihr-archive.iijlab.net/ihr/hegemony/: The AS hegonomy is an achieve in above link and also used in **BGP Hijacking Classification** paper.
 
 
 ## Additional Materials: 
