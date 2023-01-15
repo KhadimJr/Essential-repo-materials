@@ -1,5 +1,5 @@
 # repro-materials
-The following are the Github repo of the two selected papers for our reporducibility studies:
+The following are the Github repos of the two selected papers for our reporducibility studies:
 
 ## BGH Hijacking Classification:
 https://github.com/grace71/bgp-hijacks-classifier.git: The github link for cloning the above mentioned project.
