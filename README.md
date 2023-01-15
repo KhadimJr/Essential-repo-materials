@@ -1,12 +1,9 @@
 # repro-materials
 The following links are pointers to materials that we would need for our implementations
-
 ## BGPStream:
 https://bgpstream.caida.org/: This is the link for the BGPStream
-
 ## Routeviews:
 https://www.routeviews.org/routeviews/: Routeviews is one of the Route Collectors that we will use for collecting BGP
-
 ## RIPE RIS:
 https://www.ripe.net/analyse/internet-measurements/routing-information-service-ris: RIPE RIS is also a BGP data collector with lots of Sub-features.
   ### RIS Raw Data:
@@ -17,7 +14,6 @@ https://www.ripe.net/analyse/internet-measurements/routing-information-service-r
   https://atlas.ripe.net/: This is measure the rnet connectivity and reachability and also a product of RIPE.
   ### RIPE Stats
   https://stat.ripe.net/about/: Providing open data and insights for Internet resources.
-
 ## Looking Glasses (Traceroute):
 datahttp://www.traceroute.org/#Looking%20Glass: These are various looking glasses that also does similar things but with some drawbacks.
 
