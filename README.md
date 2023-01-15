@@ -1,17 +1,17 @@
 # repro-materials
 The following links are pointers to materials that we would need for our implementations
 
-## GPStream:
+## BGPStream:
 https://bgpstream.caida.org/: This is the link for the BGPStream
 
-## outeviews:
+## Routeviews:
 https://www.routeviews.org/routeviews/: Routeviews is one of the Route Collectors that we will use for collecting BGP
 
-##RIPE RIS:
+## RIPE RIS:
 https://www.ripe.net/analyse/internet-measurements/routing-information-service-ris: RIPE RIS is also a BGP data collector with lots of Sub-features.
-  ### IS Raw Data:
+  ### RIS Raw Data:
   https://www.ripe.net/analyse/internet-measurements/routing-information-service-ris/archive/ris-raw-data: This is RIS raw data
-  ###RIS Live Data:
+  ### RIS Live Data:
   https://ris-live.ripe.net/: Accessing RIS live data
   ### RIPE Atlas:
   https://atlas.ripe.net/: This is measure the rnet connectivity and reachability and also a product of RIPE.
